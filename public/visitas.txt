@@ -1,0 +1,12 @@
+nombre:Aguja<br>
+               Codigo:weeee<hr>nombre:Nuevo<br>
+               Codigo:console.log(sumar(10, 2, 44, 3,10));
+ console.log();
+ console.log(sumar(1, 2));
+ console.log();
+ console.log(sumar());
+ console.log();<hr>nombre:Carlos Mrio<br>
+               Codigo:Mi nuevo<hr>nombre:Aguja<br>
+               Codigo:qwqwewee<hr>nombre:Aguja<br>
+               Codigo:sdsds<hr>nombre:FAZ1102020<br>
+               Codigo:asasasas<hr>
